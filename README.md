@@ -1,2 +1,2 @@
 # crypto-sentiment-analysis
-Analyzing the correlation between social media/news sentiment and the evolution of crypto market.
+Analyzing the correlation between Twitter sentiment and the Evolution of crypto market from Feb 21 to Jan 22.
